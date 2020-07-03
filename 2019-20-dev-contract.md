@@ -11,17 +11,21 @@ SFU Archives contracted with Artefactual Systems Inc to sponsor development work
 * Beginning Apr 2020, in progress.
 * SFU Archives and Artefactual reviewed the scoping report and agreed to proceed with four features; these are tagged on the Issues tab as `in progress`.
 
-[Column pickers in Archivematica's `Backlog` and `Archival storage` tabs (issue 8)](https://github.com/SFU-Archives/software-development-priorities/issues/8)
-* Allow users to choose which fields to display in lists of backlog packages and AIPs.
+### Archivematica column pickers
+* Allow users to choose which fields to display in the lists on Archivematica's `Backlog` and `Archival storage` tabs.
+* [See Issue 8](https://github.com/SFU-Archives/software-development-priorities/issues/8)
 
-[Archivematica configuration selector (issue 9)](https://github.com/SFU-Archives/software-development-priorities/issues/9)
+### Archivematica configuration selector
 * Let users select a processing configuration when starting a transfer in the Archivematica Dashboard.
+* [See Issue 9](https://github.com/SFU-Archives/software-development-priorities/issues/9)
 
-[Improvements in the display of digital object metadata in AtoM (issue 10)](https://github.com/SFU-Archives/software-development-priorities/issues/10)
+### Improvements in the display of digital object metadata in AtoM
 * Distinguish metadata (e.g. file formats) separately for originals, preservation and access copies
 * Make clear when a digital object exists in AtoM (can be directly accessed) vs when a digital object exists (and can be requested) but has not been uploaded to AtoM (for privacy or copyright reasons) and cannot be directly accessed.
+* [See Issue 10](https://github.com/SFU-Archives/software-development-priorities/issues/10)
 
-[CAS integration (issue 28)](https://github.com/SFU-Archives/software-development-priorities/issues/28)
+### CAS integration
 * Allow Archives' staff to log on to both Archivematica and AtoM via the university's Central Authentication Service using their SFU computing ID.
+* [See Issue 28](https://github.com/SFU-Archives/software-development-priorities/issues/28)
 
-##### Last updated: Jul 3, 2020
+###### Last updated: Jul 3, 2020
