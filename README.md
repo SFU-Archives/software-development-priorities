@@ -14,3 +14,6 @@ Each development contract has its own page, giving a brief description of work d
 The Archives first created a features wishlist in March 2013. Over the years, it has been updated in various formats – mainly as Word documents, then on the Archives' internal wiki. In July 2020 we moved it to this GitHub repository in order to facilitate maintenance and make it easier to share with other institutions and developers.
 
 ###### Last updated: Jul 3, 2020
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
