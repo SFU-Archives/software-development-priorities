@@ -8,7 +8,7 @@ The main purpose of the list is to support planning when the Archives sponsors s
 ## Structure
 Features are registered on the [Issues tab](https://github.com/SFU-Archives/software-development-priorities/issues), using tags to assign priority (High, Medium, Low) and type (Archivematica, AtoM, ePADD etc). Priorities should be periodically reviewed / reassigned, typically at the end of a development contract or beginning of planning for a new one.
 
-Each [development contract](https://github.com/SFU-Archives/software-development-priorities/tree/master/development-contracts) will eventually have its own page, giving a brief description of work done (in progress).
+Each development contract will eventually have its own page, giving a brief description of work done (in progress).
 - [2019-20 development contract](./development-contracts/2019-20.md)
 
 ## History
