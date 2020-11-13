@@ -1,6 +1,6 @@
 # Software Development Priorities
 
-This repository tracks possible feature enhancements for the open-source software applications used by SFU Archives. These are primarily [Archivematica](https://www.archivematica.org/en/) and [Access-to-Memory (AtoM)](https://www.accesstomemory.org/en/). Over time others may be included as the Archives incorporates them into its workflows (e.g. [ePADD](https://library.stanford.edu/projects/epadd)).
+This site tracks possible feature enhancements for the open-source software applications used by SFU Archives. These are primarily [Archivematica](https://www.archivematica.org/en/) and [Access-to-Memory (AtoM)](https://www.accesstomemory.org/en/). Over time others may be included as the Archives incorporates them into its workflows (e.g. [ePADD](https://library.stanford.edu/projects/epadd)).
 
 ## Purpose
 The main purpose of the list is to support planning when the Archives sponsors software development via contract. But the Archives can also draw on the list whenever it has an opportunity to provide input on the development roadmap of one of these software projects.

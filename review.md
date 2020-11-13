@@ -3,17 +3,17 @@
 # Review
 This page provides a quick grouping of features by the priorities last assigned in September 2019. It's purpose is to support review / reassignment of priorities in November 2020 as the 2019-20 development contract nears completion.
 
-Features bolded are currently in-progress as part of the 2019-20 dev contract.
+Features marked with an asterisk are currently in-progress as part of the 2019-20 dev contract.
 
 [Download the current version as a single pdf](./downloads/current.pdf)
 
 ## High
-- [Link AIPs to fonds / collections](#1)
-- **[Minor Archivematica user interface enhancements](#8)**
-- **[Archivematica processing configuration](#9)**
-- **[Metadata-only DIP upload](#10)**
-- [Accessions module](#21)
-- **[CAS integration](#28)**
+- #1 Link AIPs to fonds / collections
+- #8 Minor Archivematica user interface enhancements (*)
+- #9 Archivematica processing configuration (*)
+- #10 Metadata-only DIP upload (*)
+- #21 Accessions module
+- #28 CAS integration (*)
 
 ## Medium
 - [Transfer analysis and validation tools](#2)
