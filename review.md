@@ -8,12 +8,12 @@ Features marked with an asterisk are currently in-progress as part of the 2019-2
 [Download the current version as a single pdf](./downloads/current.pdf)
 
 ## High
-- #1 Link AIPs to fonds / collections
-- #8 Minor Archivematica user interface enhancements (*)
-- #9 Archivematica processing configuration (*)
-- #10 Metadata-only DIP upload (*)
-- #21 Accessions module
-- #28 CAS integration (*)
+- Link AIPs to fonds / collections (issue #1)
+- Minor Archivematica user interface enhancements (issue #8)
+- Archivematica processing configuration (issue #9)
+- Metadata-only DIP upload (issue #10)
+- Accessions module (issue #21)
+- CAS integration (issue #28)
 
 ## Medium
 - [Transfer analysis and validation tools](#2)
