@@ -8,12 +8,12 @@ Features marked with an asterisk are currently in-progress as part of the 2019-2
 [Download the current version as a single pdf](./downloads/current.pdf)
 
 ## High
-- Link AIPs to fonds / collections (issue #1)
-- Minor Archivematica user interface enhancements (issue #8)
-- Archivematica processing configuration (issue #9)
-- Metadata-only DIP upload (issue #10)
-- Accessions module (issue #21)
-- CAS integration (issue #28)
+- [Link AIPs to fonds / collections](https://github.com/SFU-Archives/software-development-priorities/issues/1)
+- [Minor Archivematica user interface enhancements](https://github.com/SFU-Archives/software-development-priorities/issues/8)
+- [Archivematica processing configuration](https://github.com/SFU-Archives/software-development-priorities/issues/9)
+- [Metadata-only DIP upload](https://github.com/SFU-Archives/software-development-priorities/issues/10)
+- [Accessions module](https://github.com/SFU-Archives/software-development-priorities/issues/21)
+- [CAS integration](https://github.com/SFU-Archives/software-development-priorities/issues/28)
 
 ## Medium
 - [Transfer analysis and validation tools](#2)
