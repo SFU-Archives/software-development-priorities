@@ -1,6 +1,8 @@
 ###### [Software Development Priorities](README.md)
 
 # Current Register
+###### Last updated: Sep 17, 2021
+
 This page provides a listing of features grouped by priority. High priority features may be described in greater detail than in the [Issues tab](https://github.com/SFU-Archives/software-development-priorities/issues).
 - [In progress](#in-progress)
 - [High priority](#high-priority)
@@ -71,6 +73,3 @@ It is possible to set up multiple subject taxonomies in AtoM (e.g. BC Thesaurus 
 - [Physical locations module](https://github.com/SFU-Archives/software-development-priorities/issues/19)
 - [Selective de-indexing of digital objects](https://github.com/SFU-Archives/software-development-priorities/issues/27)
 - [User contributed content](https://github.com/SFU-Archives/software-development-priorities/issues/24)
-
-
-###### Last updated: Sep 17, 2021
