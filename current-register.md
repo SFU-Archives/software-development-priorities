@@ -2,6 +2,10 @@
 
 # Current Register
 This page provides a listing of features grouped by priority. High priority features may be described in greater detail than in the [Issues tab](https://github.com/SFU-Archives/software-development-priorities/issues).
+- [In progress](#in-progress)
+- [High priority](#high-priority)
+- [Medium priority](#medium-priority)
+- [Low priority](#low-priority)
 
 ## In progress
 ### [Digital object metadata display: retroactive implementation](https://github.com/SFU-Archives/software-development-priorities/issues/43)
@@ -23,9 +27,6 @@ Support a rotating set of images for the AtoM home page and provide an admin int
 
 ### [Subject terms: multiple thesauri](https://github.com/SFU-Archives/software-development-priorities/issues/32)
 It is possible to set up multiple subject taxonomies in AtoM (e.g. BC Thesaurus top terms, taxonomies specific to Archives or Special Collections). But the interface for applying terms just gives a flat list of all terms from all taxonomies. This project would create an interface to support faceted filtering so that the user can view / select terms from a specific taxonomy.
-
-[IssueName](https://github.com/SFU-Archives/software-development-priorities/issues/nn)
-
 
 ## Medium priority
 ### AtoM
@@ -52,7 +53,6 @@ It is possible to set up multiple subject taxonomies in AtoM (e.g. BC Thesaurus 
 - [ePADD import: formatting](https://github.com/SFU-Archives/software-development-priorities/issues/45)
 - [ePADD mbox](https://github.com/SFU-Archives/software-development-priorities/issues/46)
 - [ePADD timestamps](https://github.com/SFU-Archives/software-development-priorities/issues/44)
-
 
 ## Low priority
 ### Archivematica
