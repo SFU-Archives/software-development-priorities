@@ -10,14 +10,11 @@ Register features on the [Issues tab](https://github.com/SFU-Archives/software-d
 - Add comments as needed.
 - Review / reassign priorities at the end of a development contract or beginning of planning for a new one.
 
-After a review, update the [Current Register](current-register.pdf). This is maintained as a Word / PDF document to facilitate reference. It includes fuller feature descriptions where applicable (typically for high-priority items), and provides more detail about requirements, options etc. This document was last revised in December 2020. Previous versions are stored on the Archives' shared drive at ITM002-02 Planning.
+After a review, update the [Current Register](current-register.md). This provides a listing, grouped by priority. It includes fuller feature descriptions where applicable (typically for high-priority items), and provides more detail about requirements, options etc. This document was last revised in September 2021. Previous versions are stored on the Archives' shared drive at ITM002-02 Planning.
 
 The [Development Contracts page](development-contracts/00-intro.md) lists past projects, summarizing the work sponsored by them.
 
-## Download
-- [Current Register (Dec 24, 2020)](current-register.pdf)
-
-###### Last updated: Nov 12, 2020
+###### Last updated: Sep 17, 2021
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
