@@ -1,7 +1,7 @@
 ###### [Software Development Priorities](README.md)
 
 # Current Register
-###### Last updated: Sep 17, 2021
+###### Last updated: Sep 20, 2021
 
 This page provides a listing of features grouped by priority. High priority features may be described in greater detail than in the [Issues tab](https://github.com/SFU-Archives/software-development-priorities/issues).
 - [In progress](#in-progress)
