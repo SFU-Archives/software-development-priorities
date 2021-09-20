@@ -26,6 +26,8 @@ Support better error handling. There are two main use cases we have in mind:
 ### [AtoM home page image carousel](https://github.com/SFU-Archives/software-development-priorities/issues/38)
 Support a rotating set of images for the AtoM home page and provide an admin interface to allow easy upload / deletion.
 
+### [AtoM theme: SFU branding](https://github.com/SFU-Archives/software-development-priorities/issues/47)
+SFU Archives' website runs on the university's Abode Experience Manager platform and follows SFU branding style guidelines. This project would create a customized theme for SFU AtoM that would implement a similar look and feel, aligning it with the rest of the Archives' website. Adobe XD and the css files for the website are available to work from.
 
 ### [Subject terms: multiple thesauri](https://github.com/SFU-Archives/software-development-priorities/issues/32)
 It is possible to set up multiple subject taxonomies in AtoM (e.g. BC Thesaurus top terms, taxonomies specific to Archives or Special Collections). But the interface for applying terms just gives a flat list of all terms from all taxonomies. This project would create an interface to support faceted filtering so that the user can view / select terms from a specific taxonomy.
