@@ -1,19 +1,13 @@
 ###### [Software Development Priorities](README.md)
 
 # Current Register
-###### Last updated: Sep 20, 2021
+###### Last updated: Nov 1, 2021
 
 This page provides a listing of features grouped by priority. High priority features may be described in greater detail than in the [Issues tab](https://github.com/SFU-Archives/software-development-priorities/issues).
-- [In progress](#in-progress)
 - [High priority](#high-priority)
 - [Medium priority](#medium-priority)
 - [Low priority](#low-priority)
-
-## In progress
-### [Digital object metadata display: retroactive implementation](https://github.com/SFU-Archives/software-development-priorities/issues/43)
-The Archives sponsored an improved display of digital object metadata in AtoM in the [2019-20 development contract](/development-contracts/2019-20.md). This makes a clear distinction between the metadata for the original file, the preservation copy, and the various access copies in AtoM (thumbnail, reference, master).
-
-This new representation will now apply to all digital objects uploaded to AtoM but it does not apply retroactively to existing content. The current project creates a script to retroactively apply to existing AtoM digital objects by getting the data from the Archivematica AIP / METS file (where the AtoM digital object was sent via Archivematica).
+- [Prioity not yet assigned](#priority=not-yet-assigned)
 
 ## High priority
 ### [Archivematica error handling](https://github.com/SFU-Archives/software-development-priorities/issues/7)
@@ -75,3 +69,7 @@ It is possible to set up multiple subject taxonomies in AtoM (e.g. BC Thesaurus 
 - [Physical locations module](https://github.com/SFU-Archives/software-development-priorities/issues/19)
 - [Selective de-indexing of digital objects](https://github.com/SFU-Archives/software-development-priorities/issues/27)
 - [User contributed content](https://github.com/SFU-Archives/software-development-priorities/issues/24)
+
+### Priority not yet assigned
+- [Archivematica AIP store re-indexing](https://github.com/SFU-Archives/software-development-priorities/issues/49)
+- [Archivematica Bag transfer: tag files](https://github.com/SFU-Archives/software-development-priorities/issues/50)
