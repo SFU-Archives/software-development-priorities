@@ -1,7 +1,7 @@
 ###### [Software Development Priorities](README.md)
 
 # Current Register
-###### Last updated: Nov 1, 2021
+###### Last reviewed / updated: Nov 1, 2021
 
 This page provides a listing of features grouped by priority. High priority features may be described in greater detail than in the [Issues tab](https://github.com/SFU-Archives/software-development-priorities/issues).
 - [High priority](#high-priority)
@@ -71,5 +71,6 @@ It is possible to set up multiple subject taxonomies in AtoM (e.g. BC Thesaurus 
 - [User contributed content](https://github.com/SFU-Archives/software-development-priorities/issues/24)
 
 ### Priority not yet assigned
-- [Archivematica AIP store re-indexing](https://github.com/SFU-Archives/software-development-priorities/issues/49)
-- [Archivematica Bag transfer: tag files](https://github.com/SFU-Archives/software-development-priorities/issues/50)
+- [Archivematica AIP store re-indexing](https://github.com/SFU-Archives/software-development-priorities/issues/49) (added Oct 6, 2021)
+- [Archivematica Bag transfer: tag files](https://github.com/SFU-Archives/software-development-priorities/issues/50) (added Oct 6, 2021)
+- [Archivematica CLI AIP download](https://github.com/SFU-Archives/software-development-priorities/issues/51) (added Jan 21, 2022)
