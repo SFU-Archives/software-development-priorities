@@ -13,9 +13,9 @@ SFU archivists review / reassign priorities at the end of a development contract
 
 After a review, the [Current Register](current-register.md) is updated. This provides a listing of features, grouped by priority. It includes fuller descriptions where applicable (typically for high-priority items), and provides more detail about requirements, options etc. This document was last revised in **November 2021**. Previous versions are stored on the Archives' shared drive at ITM002-02 Planning.
 
-The [Development Contracts page](development-contracts/00-intro.md) lists past projects, summarizing the work sponsored by them.
+The [Development Contracts page](development-contracts/intro.md) lists past projects, summarizing the work sponsored by them.
 
-###### Last updated: Nov 1, 2021
+###### Last updated: Jan 21, 2022
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
